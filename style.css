@@ -9,19 +9,20 @@
   border: 5px solid black
 }
 
-#header {
-  background-image: url("/home/gusbucker/Imagens/Papéis de parede/ematrix.jpg");
-  background-size: cover;
-  background-color: rgba(57, 131, 131, 0.26); 
+  #header {
+    background-color: rgba(57, 131, 131, 0.26);
+    background-position: 50% 25%;
+    background-size: cover;
+    border: 10px solid black
   }
   
   section {
-    border: 10px solid black
+    background-image: url("/home/gusbucker/Imagens/trybe_logo.png");
   }
 
-body {
-
-        }
+  body {
+    background-image: url("/home/gusbucker/Imagens/Papéis de parede/ematrix.jpg");
+  }
   
   h1 {
     color: rgb(2, 2, 1);
@@ -45,16 +46,16 @@ body {
   }
 
   ul {
-    color: black;
+    background-color: black;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
-    text-align: center;
+    text-align: center
   }
 
   .Links {
-    background-color: rgba(8, 31, 16, 0.719));
+    background-color: rgba(57, 131, 131, 0.26);
     font-size: large;
-    margin-bottom: auto;
+    margin: auto;
     text-align: center;
-    }
+  }
     
