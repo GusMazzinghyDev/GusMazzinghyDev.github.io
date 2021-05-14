@@ -2,39 +2,59 @@
 
 }
 
-IMG.displayed {
-    display: block;
-    margin-left: auto;
-    margin-right: auto }
+.foto {
+  margin-left: 45%;
+  margin-top: -1%;
+  border-radius: 5%;
+  border: 5px solid black
+}
 
-.foto border-radius: 50%; 
-margin-left: auto;
-margin-right: auto }
-
-.Links center;
-
-body {
-    background-color: lightblue;
+#header {
+  background-image: url("/home/gusbucker/Imagens/Papéis de parede/ematrix.jpg");
+  background-size: cover;
+  background-color: rgba(57, 131, 131, 0.26); 
   }
   
+  section {
+    border: 10px solid black
+  }
+
+body {
+
+        }
+  
   h1 {
-    color: white;
+    color: rgb(2, 2, 1);
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
     text-align: center;
+    text-shadow: 50px;
+    margin-top: auto;
   }
   
   h2 {
-    color: white;
+    color: rgb(2, 2, 1);
+    font-family: Arial, Helvetica, sans-serif;
     text-align: center;
   }
   
   p {
-    font-family: verdana;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
     text-align: center;
   }
 
-  li {
-    font-family: verdana;
-    font-size: 20px;
+  ul {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
     text-align: center;
   }
+
+  .Links {
+    background-color: rgba(8, 31, 16, 0.719));
+    font-size: large;
+    margin-bottom: auto;
+    text-align: center;
+    }
+    
