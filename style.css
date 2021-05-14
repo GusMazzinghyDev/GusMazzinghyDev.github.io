@@ -1,0 +1,40 @@
+*{
+
+}
+
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
+.foto border-radius: 50%; 
+margin-left: auto;
+margin-right: auto }
+
+.Links center;
+
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  h2 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+  }
+
+  li {
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+  }
